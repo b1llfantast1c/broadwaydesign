@@ -5,8 +5,11 @@ body {
 
 .hero {
   background-image: url("../images/the-flatiron-building.png");
-  width: 1280px
-  height: 720px;
+  font-weight: bold;
+}
+
+a {
+  font-size: 18px;
 }
 
 .midBanner {
@@ -17,4 +20,24 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+a {
+  color: white;
+}
+
+.footer {
+  font-size: 11px;
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+p {
+  font-size: 14px;
 }
